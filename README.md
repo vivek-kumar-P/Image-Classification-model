@@ -26,8 +26,8 @@ This is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model for ima
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JayRathod341997/DeepLensX.git
-   cd DeepLensX
+   git clone https://github.com/vivek-kumar-P/Image-Classification-model
+   cd Image-Classification-model
 2. **Create and activate a virtual environment**:
     ```bash
     python -m venv venv
