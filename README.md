@@ -3,6 +3,8 @@
 This is a **Streamlit web app** that integrates **MobileNetV2** and a **CIFAR-10** model for image classification. Users can upload images and receive predictions with confidence scores from either model. It features a sleek navigation bar for easy switching and real-time results, which is ideal for learning and practical use.
 
 **🌐 Live App:** [Streamlit Cloud Deployment](https://share.streamlit.io) (See deployment section)
+<img width="1908" height="751" alt="image" src="https://github.com/user-attachments/assets/a5c63348-345e-4757-ae46-119b5fdd024a" />
+
 
 ## 🎯 Key Features
 
